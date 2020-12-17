@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600762252 source:c:\users\abdullateef sanosse\desktop\c++ cource\bank\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+
